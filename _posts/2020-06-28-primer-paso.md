@@ -4,7 +4,7 @@ title:  "Primer blog post, primer pasito al sueño"
 author: sal
 categories: [ Travel ]
 tags: [ Springbok, Tips ]
-image: assets/images/2020-06-19/bolivia.JPG
+image: assets/images/2020-06-28/bolivia.JPG
 # rating: 4.5
 ---
 

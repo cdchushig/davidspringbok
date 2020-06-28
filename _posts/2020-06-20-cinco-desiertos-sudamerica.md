@@ -3,7 +3,7 @@ layout: post
 title:  "Los 5 grandes desiertos de Sudamérica"
 author: sal
 categories: [ Travel ]
-image: assets/images/9.jpg
+image: assets/images/2020-06-20/valle-luna.jpg
 beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
 toc: true
 ---
@@ -15,7 +15,7 @@ Director Roland Suso Richter's enigmatic psychological thriller (direct to video
 
 Algo que recuerdas del viaje, sin duda, son aquellas imponentes figuras de piedra. Son muchas, y cada uno mejor que otras.
 
-![Image of Stone Tree](/assets/images/2020-06-19/stone-tree.jpg)
+![Valle de la luna](/assets/images/2020-06-20/valle-luna.jpg)
 
 
 #### El desierto costero - Perú

@@ -4,7 +4,7 @@ title:  "Pueblito con un gran encanto, Chucuito"
 author: sal
 categories: [ Travel, America ]
 tags: [ Peru ]
-image: assets/images/5.jpg
+image: assets/images/2020-06-23/chucuito-iglesia.jpg
 ---
 
 Perú es uno de los países más visitados en el mundo. Ciudades como Cusco, Lima, Arequipa, Iquitos y Puno están entra las ciudades peruanas que más turistas reciben anualmente. El número de turistas que puedas encontrar en los meses de Junio, Julio y Agosto puede ser 'angustiante'. 
