@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: David Springbok 
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: assets/images/david-springbok.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+David Springbok es un ingeniero con **alma de mochilero**. David es un orgulloso ecuatoariano que tiene el sueño de viajar por todo el mundo, recorriendo cada pedacito del mundo y conociendo personas maravillosas en el corto viaje.
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+Como todos los aventureros, su experiencia viajero empezó de casualidad, ni siquiera sabía que llegaría a ser su forma de vida. Allá por el 2009.
+
+> "There's almost no single moment in Portrait of a Lady on Fire that couldn't be captured, mounted, and hung on a wall as high art." <cite>— Entertainment Weekly</cite>
 
