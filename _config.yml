@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-171108384-1'
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://davidspringbok.us10.list-manage.com/subscribe/post?u=258b60f94223c2e6e2ee5b6ad&amp;id=7700ef3958'
 include: ["_pages"]
 permalink: /:title/
 email: imdavid.springbok@gmail.com
