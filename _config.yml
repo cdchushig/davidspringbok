@@ -1,11 +1,11 @@
 # Site
 name: "David Springbok"
-title: "Travel"
+title: "David Springbok"
 description: "David Springbok"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-171108384-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -22,7 +22,7 @@ authors:
     web: about
     twitter: https://www.facebook.com/davidspringboktravel
     instagram: https://instagram.com/davidspringbok
-    description: "Traveller, adventurer and storyteller"
+    description: "Viajero, aventurero y storyller. David es ingeniero pero sobretodo aventurero. Ecuatoriano explorando el mundo 🇪🇨. Desde 2009 viajando por el mundo, desde hace poquito escribiendo sobre mis viajes y aventuras."
 
 # Plugins
 plugins:
