@@ -1,7 +1,7 @@
 ---
 layout: page
 title: David Springbok 
-permalink: /sobremi
+permalink: /quiensoy
 comments: false
 image: assets/images/david-springbok.jpg
 imageshadow: true
