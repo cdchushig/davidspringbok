@@ -4,7 +4,7 @@ title:  "Los grandes desiertos de Sudamérica"
 author: sal
 categories: [ Travel ]
 image: assets/images/2020-06-20/valle-luna.jpg
-beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+beforetoc: "¿Desiertos? Cuando se piensan en desiertos, generalmente viene a nuestra mente Asia y África. Sin embargo, en Sudamérica, aunque parezca sorprendente también encontramos grandes desiertos."
 toc: true
 ---
 
@@ -13,7 +13,7 @@ toc: true
 
 ### El desierto de Atacama - Chile
 
-Uno de los desiertos más sorprendentes a nivel mundial, es el desierto de Atacama situado en el norte de Chile y abarca varias regiones principalmente Antofagasta. 
+Uno de loss más sorprendentes a nivel mundial, es el desierto de Atacama situado en el norte de Chile y abarca varias regiones principalmente Antofagasta. 
 
 ![Valle de la luna](/assets/images/2020-06-20/valle-luna.jpg)
 
@@ -47,13 +47,12 @@ Entre los lugares que más destaco (que más me gustó) sin duda, son las impone
 
 ![Image of Stone Tree](/assets/images/2020-06-19/stone-tree.jpg)
 
+#### Cómo llegar
+
+
 
 ### El desierto de la Patagonia - Argentina
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
 
 
 ### El desierto de Siloli - Bolivia

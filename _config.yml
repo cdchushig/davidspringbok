@@ -1,7 +1,7 @@
 # Site
 name: "David Springbok"
 title: "David Springbok Travel Blog"
-tagline: "El blog que te inspira a recorrer el mundo, a realizar tu sueño de viajar."
+# tagline: "El blog que te inspira a recorrer el mundo, a realizar tu sueño de viajar."
 description: "Travel blog que muestra los rincones escondidos del mundo y busca inspirarte a realizar ese viajar que tanto tiempo llevas pensando. "
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -12,6 +12,7 @@ mailchimp-list: 'https://davidspringbok.us10.list-manage.com/subscribe/post?u=25
 include: ["_pages"]
 permalink: /:title/
 email: imdavid.springbok@gmail.com
+url: 'davidspringbok.com'
 
 
 # Authors
