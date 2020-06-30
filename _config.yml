@@ -1,7 +1,7 @@
 # Site
 name: "David Springbok"
 title: "David Springbok"
-description: "David Springbok"
+description: "Travel blog que muestra rincones del mundo, inspirándote a viajar."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
