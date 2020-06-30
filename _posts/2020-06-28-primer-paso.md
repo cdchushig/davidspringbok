@@ -8,26 +8,37 @@ image: assets/images/2020-06-28-primer-paso/bolivia.JPG
 # rating: 4.5
 ---
 
-Y alguna vez una persona a la que admiro me dijo, ¿tienes un sueño?, crea un plan y cumple pequeños pasitos. Y en eso estoy, planeando cada detalle del Proyecto Springbok, el viaje por todo el mundo. Pese a que he tenido la gran suerte de haber podido viajar por varios rincones del planeta, y haber conocido personas maravillosas, aún queda latente ese sueño que empezó allá por el 2018 en Pretoria, Sudáfrica. ¿Y si damos rienda suelta al espíritu aventurero? ¿y si vamos a recorrer el mundo? ¿y si ....?  Y lo que en principio fue un "vaya idea loca", ahora pienso que no lo es tanto. Y es que para conseguir ese sueño, simplemente se requieren dos cosas: ***un plan y mucho esfuerzo***. Dos años después, la idea empieza a convertirse en un proyecto.
+Y alguna vez una persona a la que admiro me dijo, ¿tienes un sueño?, crea un plan y cumple pequeños pasitos. Y en eso estoy, planeando cada detalle del Proyecto Springbok, el viaje por todo el mundo. Pese a que he tenido la gran suerte de haber podido viajar por varios rincones del planeta, y haber conocido personas maravillosas, aún queda latente ese sueño que empezó allá por el 2018 en Pretoria, Sudáfrica. ¿Y si damos rienda suelta al espíritu aventurero? ¿y si vamos a recorrer el mundo? ¿y si ....?  Y lo que en principio fue un "vaya idea loca", ahora pienso que no lo es tanto. Y es que para conseguir ese sueño, simplemente se requieren dos cosas: **un plan y mucho esfuerzo**. Dos años después, la idea empieza a convertirse en un proyecto.
 
-Always a center of entertainment for the aristocracy, in the 1870s it also became a regular destination of some of the best known figures of art and the demi-monde. Edgar Degas and Henri de Toulouse-Lautrec portrayed visitors at the night club, and Aristide Bruant performed there.
-
-> It was decorated in an 18th-century rococo style, redesigned by Sybille de Margérie with furnishings by Sonia Rykiel.
-
-
-**Seven wonders of the world**
-
-**Seven natural wonders of the world.** 
-1. _Auroras boreales_ en varios destinos. 
-2. _El gran cañón_ en Arizona. 
-3._Paricutin_ en Michoacán México. 
-4. _La gran barrera de coral_ en Queensland Australia. 
-5. _El monte Everest_ en Nepal. 
-6. _Harbor of Rio de Janeiro_ también conocido como Guanabara Bay. :heavy_check_mark:
-7. _Victoria Falls_ en el límite entre Zambia y Zimbabwe. :heavy_check_mark:
+**Las 7 maravillas del mundo**
+1. El Coliseo Romano. :heavy_check_mark:
+2. Macchu Picchu. :heavy_check_mark:
+3. El Cristo Redentor. :heavy_check_mark:
+4. Chichen Itza.
+5. La gran muralla China.
+6. Taj Mahal.
+7. Petra.
 
 
-**Seven summits**
+**Las 7 maravillas naturales del mundo** 
+1. Auroras boreales en varios destinos. 
+2. El gran cañón en Arizona. 
+3. Paricutin en Michoacán México. 
+4. La gran barrera de coral en Queensland Australia. 
+5. El monte Everest en Nepal. 
+6. Harbor of Rio de Janeiro también conocido como Guanabara Bay. :heavy_check_mark:
+7. Victoria Falls en el límite entre Zambia y Zimbabwe. :heavy_check_mark:
 
 
-**Viaje en furgoneta por el mundo**
+**Las 7 grandes cimas**
+
+1. Kilimanjaro (África).
+2. Elbrus (Europa).
+3. Aconcagua (Sudamérica).
+4. Pirámide Carstenz (Oceanía).
+5. Vinson Massif (Antártida).
+6. Everest (Asia).
+7. Denali (Norteamérica).
+
+
+**Viaje en furgoneta alrededor del mundo**
