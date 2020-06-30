@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Asesoría de viajes 
-permalink: /advisory
+permalink: /asesoria
 comments: false
 image: assets/images/david-springbok.jpg
 imageshadow: true
