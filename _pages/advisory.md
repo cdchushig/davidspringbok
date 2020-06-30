@@ -1,10 +1,9 @@
 ---
 layout: page
-title: David Springbok 
-permalink: /donate
+title: Asesoría de viajes 
+permalink: /advisory
 comments: false
 image: assets/images/david-springbok.jpg
 imageshadow: true
 ---
 
-Donar ayuda al proyecto.
