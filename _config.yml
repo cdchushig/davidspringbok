@@ -12,7 +12,6 @@ mailchimp-list: 'https://davidspringbok.us10.list-manage.com/subscribe/post?u=25
 include: ["_pages"]
 permalink: /:title/
 email: imdavid.springbok@gmail.com
-url: "https://davidspringbok.com"
 
 
 # Authors
