@@ -4,7 +4,7 @@ title:  "Mi travel blog, primer pasito al sueño"
 author: sal
 categories: [ Travel ]
 tags: [ Springbok, Tips ]
-image: assets/images/2020-06-28/bolivia.JPG
+image: assets/images/2020-06-28-primer-paso/bolivia.JPG
 # rating: 4.5
 ---
 
@@ -17,7 +17,14 @@ Always a center of entertainment for the aristocracy, in the 1870s it also becam
 
 **Seven wonders of the world**
 
-**Seven wonders of the world**
+**Seven natural wonders of the world.** 
+1. _Auroras boreales_ en varios destinos. 
+2. _El gran cañón_ en Arizona. 
+3._Paricutin_ en Michoacán México. 
+4. _La gran barrera de coral_ en Queensland Australia. 
+5. _El monte Everest_ en Nepal. 
+6. _Harbor of Rio de Janeiro_ también conocido como Guanabara Bay. :heavy_check_mark:
+7. _Victoria Falls_ en el límite entre Zambia y Zimbabwe. :heavy_check_mark:
 
 
 **Seven summits**

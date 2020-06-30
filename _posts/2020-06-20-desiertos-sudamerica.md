@@ -3,7 +3,7 @@ layout: post
 title:  "Los grandes desiertos de Sudamérica"
 author: sal
 categories: [ Travel ]
-image: assets/images/2020-06-20/valle-luna.jpg
+image: assets/images/2020-06-20-desiertos-sudamerica/valle-luna.jpg
 beforetoc: "¿Desiertos? Cuando se piensan en desiertos, generalmente viene a nuestra mente Asia y África. Sin embargo, en Sudamérica, aunque parezca sorprendente también encontramos grandes desiertos."
 toc: true
 ---
@@ -15,7 +15,7 @@ toc: true
 
 Uno de loss más sorprendentes a nivel mundial, es el desierto de Atacama situado en el norte de Chile y abarca varias regiones principalmente Antofagasta. 
 
-![Valle de la luna](/assets/images/2020-06-20/valle-luna.jpg)
+![Valle de la luna](/assets/images/2020-06-20-desiertos-sudamerica/valle-luna.jpg)
 
 #### Cómo llegar
 
@@ -45,7 +45,7 @@ There are two types of code elements which can be inserted in Markdown, the firs
 
 Entre los lugares que más destaco (que más me gustó) sin duda, son las imponentes figuras de piedra. Son muchas, y cada uno mejor que otras, entre las que destaca la _famosísima_ **Stone Tree o Árbol de Piedra** una de las fotos representativas en Uyuni.
 
-![Image of Stone Tree](/assets/images/2020-06-19/stone-tree.jpg)
+![Image of Stone Tree](/assets/images/2020-06-20-desiertos-sudamerica/stone-tree.jpg)
 
 #### Cómo llegar
 

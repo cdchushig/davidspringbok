@@ -4,7 +4,7 @@ title:  "Pueblito con un gran encanto, Chucuito"
 author: sal
 categories: [ Travel, America ]
 tags: [ Peru ]
-image: assets/images/2020-06-23/chucuito-iglesia.jpg
+image: assets/images/2020-06-23-chucuito-puno/chucuito-iglesia.jpg
 description: "Descubriendo Chucuito, un pueblito con encanto en el Lago Titicaca"
 ---
 
