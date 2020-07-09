@@ -6,7 +6,7 @@ comments: false
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Hola viajeros! No duden en preguntarme si necesitas información o requieres ayuda planificando tu viaje. Estaré feliz en ayudarte! Prometo responder lo más pronto posible. Un saludo virtual --{{site.name}}. </p>
+<p class="mb-4">Hola viajeros! Si necesitan información o requieren ayuda planificando su viaje no duden en escribirme a través del correo imdavid.springbok@gmail.com o mediante el formulario de contacto. Estaré feliz en ayudarte! Prometo responder lo más pronto posible. Un saludo virtual --{{site.name}}. </p>
 <div class="form-group row">
 <div class="col-md-6">
 <input class="form-control" type="text" name="name" placeholder="Nombre*" required>
